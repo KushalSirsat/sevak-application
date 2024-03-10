@@ -1,13 +1,10 @@
 # women_safety_app
 
-A cross Plateform Application which can run on android and as well as IOS devices with help of Dart Language.
+Create a cross-platform application using Dart language that operates seamlessly on both Android and iOS devices, specifically designed to enhance the safety and security of women. This app aims to provide immediate assistance to women who feel threatened or endangered. Key features include emergency alerts, GPS tracking, and an SOS feature for quick notifications to family, friends, or emergency services.
 
-A women safety application is a mobile application designed to enhance the safety and security of women. 
-It aims to provide an immediate response to women who feel threatened or endangered in any way. 
-The application typically includes features such as emergency alerts, GPS tracking, and  SOS feature that can be used to quickly alert family and friends, emergency services, or any pre-set contacts.This application also include many safely tips and tricks for women to practice the moves so that she can prevent herself from any attacks.
-This application will also play one police siren sound so that the attackers will get threatened.
-This women's safety app will also alert nearby Police station to notify about her safety issues along with location of the user's phone and the Audio recording upto 2-3 minutes which will automatically get recorded once the phone starts shaking.
-This application also helps the user to highlight the nearby places /area where crime rate is high and not to visit that place and to be cautious about the surrounding environment.
+Additionally, the application offers safety tips and self-defense techniques for women, encouraging them to practice preventive measures. To intimidate potential threats, the app includes a police siren sound. In case of an emergency, the app automatically notifies the nearby police station, providing the user's location and recording audio for 2-3 minutes when the phone detects shaking.
+
+Moreover, the app assists users in identifying high-crime areas and advises against visiting such places, promoting awareness of the surrounding environment. This comprehensive women's safety application aims to empower and protect users through a range of features and practical tips.
 
 # Features:
 1. Track Location
